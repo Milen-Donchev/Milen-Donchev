@@ -1,6 +1,6 @@
 ![github-header-image](https://github.com/Milen-Donchev/Milen-Donchev/assets/93256125/bc8193d2-ff92-4ffd-a77c-77d6100b1166)
 
-#### Fullstack Javascript developer with over 4 years of professional experience. Worked both with innovative startups and award winning companies. Comfortable with remote and in-office opportunities. Confident in web, mobile and API development.
+#### Fullstack Javascript developer with over 5 years of professional experience. Worked both with innovative startups and award winning companies. Comfortable with remote and in-office opportunities. Confident in web, mobile and API development.
 
 
 
